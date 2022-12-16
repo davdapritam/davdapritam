@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 My name is Davda Pritam</h1>
+<h1 align="center">Davda Pritam🧑🏻‍💻</h1>
 <h3 class="string" align="center">Full Stack Developer</h3>
 
 
