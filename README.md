@@ -8,7 +8,6 @@
 
 
 <img src="https://komarev.com/ghpvc/?username=davdapritam&theme=oldie"/>
-<img  src="https://github-profile-trophy.vercel.app/?username=davdapritam&label=Profile%20views&color=0e75b6&style=flat"/>
 
 <h2>Social</h2>
 <a href="https://www.github.com/davdapritam" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730434/ease-prof/social/github-tile_gsrozh.svg" height="40" width="40" alt=github/>
@@ -48,3 +47,6 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=davdapritam&show_icons=true&theme=dark"/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=davdapritam&theme=dark"/>
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davdapritam&layout=compact&theme=dark"/>
+
+ <img  src="https://github-profile-trophy.vercel.app/?username=davdapritam&label=Profile%20views&color=0e75b6&style=flat"/>
+ 
