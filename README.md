@@ -1,14 +1,14 @@
 <h1 align="center">👋 Hola, I'm Davda Pritam</h1>
 
 <h3 align="center">Full Stack Web Developer</h3>
-<img src="https://komarev.com/ghpvc/?username=davdapritam&theme=oldie"/>
-<img  src="https://github-profile-trophy.vercel.app/?username=davdapritam&label=Profile%20views&color=0e75b6&style=flat"/>
 
  - 🌍 I'm based in **India**
 
 - ✉️ Contact Me At *<u><a href=mailto:dpdavdapritam@gmail.com target="_blank">dpdavdapritam@gmail.com</a></u>*
 
 
+<img src="https://komarev.com/ghpvc/?username=davdapritam&theme=oldie"/>
+<img  src="https://github-profile-trophy.vercel.app/?username=davdapritam&label=Profile%20views&color=0e75b6&style=flat"/>
 
 <h2>Social</h2>
 <a href="https://www.github.com/davdapritam" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730434/ease-prof/social/github-tile_gsrozh.svg" height="40" width="40" alt=github/>
