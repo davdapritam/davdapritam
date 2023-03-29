@@ -7,7 +7,6 @@
 
 
 <img src='https://komarev.com/ghpvc/?username=Maldicion&style=for-the-badge&theme=dark'/>
-<img src='https://github-profile-trophy.vercel.app/?username=Maldicion&theme=oldie'/>
 <h2>Skills</h2>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" height="40" width="40" alt="C"/></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" height="40" width="40" alt="C++"/></a>
