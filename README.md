@@ -45,9 +45,9 @@
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609803/ease-prof/programming%20languages/c_s78hfk.svg" height="40" width="40" alt=C/>
 
 <h2>Badges</h2>
-<img width="48%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=davdapritam&theme=dark"/>
 <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=davdapritam&show_icons=true&theme=dark"/>
-<img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davdapritam&layout=compact&theme=dark"/>
+ <img width="48%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=davdapritam&theme=dark"/>
+<img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davdapritam&layout=compact&theme=dark"/>
 <br>
  
 <img  src="https://github-profile-trophy.vercel.app/?username=davdapritam&label=Profile%20views&color=0e75b6&style=flat"/>
