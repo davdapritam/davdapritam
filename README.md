@@ -48,7 +48,7 @@
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davdapritam&theme=dark&border_radius=6.3&card_width=500&fire=EB5032)](https://git.io/streak-stats) -->
 
-<img width="49%" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=davdapritam&theme=dracula"/>
+<img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=davdapritam&theme=dracula"/>
 
 <img width="49%" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=davdapritam&theme=dracula"/>
 
