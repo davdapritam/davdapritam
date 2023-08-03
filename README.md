@@ -45,6 +45,7 @@
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609803/ease-prof/programming%20languages/c_s78hfk.svg" height="40" width="40" alt=C/>
 
 <h2>Badges</h2>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davdapritam&theme=dark&border_radius=6.3&card_width=800&fire=EB5032)](https://git.io/streak-stats)
 <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=davdapritam&show_icons=true&theme=dark"/>
 <!--  <img width="48%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=davdapritam&theme=dark"/> -->
 <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=davdapritam&show_icons=true&theme=dark"/>
@@ -52,7 +53,7 @@
 <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davdapritam&layout=compact&theme=dark"/>
 <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davdapritam&theme=dark&border_radius=6.3&card_width=700&fire=EB5032)](https://git.io/streak-stats)
+
  
 <img  src="https://github-profile-trophy.vercel.app/?username=davdapritam&label=Profile%20views&color=0e75b6&style=flat"/>
  
