@@ -46,9 +46,7 @@
 
 <h2>Badges</h2>
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davdapritam&theme=dark&border_radius=6.3&card_width=500&fire=EB5032)](https://git.io/streak-stats) -->
-
-<img width="48%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=davdapritam&theme=highcontrast"/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davdapritam&theme=dark&border_radius=6.3&card_width=495&fire=EB5032)](https://git.io/streak-stats)
 
 ![davdapritam's Stats](https://github-readme-stats.vercel.app/api?username=davdapritam&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
