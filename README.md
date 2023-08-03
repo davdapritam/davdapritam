@@ -45,7 +45,7 @@
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609803/ease-prof/programming%20languages/c_s78hfk.svg" height="40" width="40" alt=C/>
 
 <h2>Badges</h2>
-<div style="display:"flex";">
+<div style="display:flex;">
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davdapritam&theme=dark&border_radius=6.3&card_width=485&fire=EB5032)](https://git.io/streak-stats)
 
