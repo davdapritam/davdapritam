@@ -47,7 +47,7 @@
 <h2>Badges</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davdapritam&theme=dark&border_radius=6.3&card_width=500&fire=EB5032)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davdapritam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davdapritam&layout=compact&theme=vision-friendly-dark&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
