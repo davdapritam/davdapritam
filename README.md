@@ -46,7 +46,7 @@
 
 <h2>Badges</h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davdapritam&theme=dark&border_radius=6.3&card_width=800&fire=EB5032)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davdapritam&theme=dark&border_radius=6.3&card_width=500&fire=EB5032)](https://git.io/streak-stats)
 
 <br>
 
