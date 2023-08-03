@@ -50,7 +50,7 @@
 
 <img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=davdapritam&theme=highcontrast"/>
 
-<img width="49%" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=davdapritam&theme=highcontrast"/>
+<img width="49%" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=davdapritam&theme=synthwave"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davdapritam&layout=compact&theme=vision-friendly-dark&card_width=500&height=300)](https://github.com/anuraghazra/github-readme-stats)
 
