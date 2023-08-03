@@ -63,3 +63,5 @@
 <img  src="https://github-profile-trophy.vercel.app/?username=davdapritam&theme=dark"/>
  
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=davdapritam&theme=dark)
+
+![davdapritam wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=davdapritam&layout=compact&theme=dark)
