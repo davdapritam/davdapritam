@@ -48,14 +48,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davdapritam&theme=dark&border_radius=6.3&card_width=465&fire=EB5032)](https://git.io/streak-stats) ![davdapritam's Stats](https://github-readme-stats.vercel.app/api?username=davdapritam&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-
-
  ![davdapritam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davdapritam&theme=dark&show_icons=true&hide_border=true&layout=compact)
  
 <br>
-
-
  
-<!-- <img  src="https://github-profile-trophy.vercel.app/?username=davdapritam&label=Profile%20views&color=0e75b6&style=flat"/> -->
-
 <img  src="https://github-profile-trophy.vercel.app/?username=davdapritam&theme=dark"/>
