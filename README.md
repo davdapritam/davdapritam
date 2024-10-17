@@ -51,5 +51,3 @@
  ![davdapritam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davdapritam&theme=dark&show_icons=true&hide_border=true&layout=compact)
  
 <br>
-
-<img  src="https://github-profile-trophy.vercel.app/?username=davdapritam&theme=dark"/>
