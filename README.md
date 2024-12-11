@@ -21,3 +21,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davdapritam&show_icons=true&locale=en&layout=compact" alt="davdapritam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davdapritam&" alt="davdapritam" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=davdapritam&theme=dark)](https://git.io/streak-stats)
