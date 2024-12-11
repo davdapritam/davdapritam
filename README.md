@@ -46,6 +46,6 @@
 
 <h2>Badges</h2>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=davdapritam&theme=dark&mode=weekly&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=davdapritam)](https://git.io/streak-stats)
 
 <br>
