@@ -23,3 +23,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davdapritam&" alt="davdapritam" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=davdapritam&theme=dark)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=davdapritam&theme=dark" alt="GitHub Streak" /></a>
