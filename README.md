@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davda Pritam</h1>
 
-
 <h3 align="center">Science Is Everything In Life...!!!</h3>
 
 
