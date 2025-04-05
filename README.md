@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Finup Gold](https://finupgold.com/)
 
-- 📫 Reach me at **dpdavdapritam@gmail.com**
+- 📫 Reach me at **davdapritam0718@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
