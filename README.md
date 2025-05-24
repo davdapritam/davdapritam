@@ -2,6 +2,7 @@
 
 <h3 align="center">Science Is Everything In Life...!!!</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davdapritam&label=Profile%20views&color=0e75b6&style=flat" alt="davdapritam" /> </p>
 
 - 🔭 I’m currently working on [Finup Gold](https://finupgold.com/)
