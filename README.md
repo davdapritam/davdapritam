@@ -21,5 +21,3 @@
 <h2>Badges</h2>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davdapritam&show_icons=true&locale=en&layout=compact" alt="davdapritam" /></p>
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=davdapritam&theme=dark" alt="GitHub Streak" /></a>
