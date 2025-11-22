@@ -21,3 +21,5 @@
 <h2>Badges</h2>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davdapritam&show_icons=true&locale=en&layout=compact" alt="davdapritam" /></p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davdapritam)](https://github.com/davdapritam/github-readme-activity-graph)
