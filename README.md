@@ -4,15 +4,11 @@
   Lead Software Engineer · building production AI products from Surat, India
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=davdapritam&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ### About me
 
-- 🛠️ Lead Software Engineer with ~4 years of full-stack production experience
+- 🛠️ Lead Software Engineer with ~5 years of full-stack production experience
 - 🎙️ Currently working on conversational AI video products and POS systems
 - 💸 Building **Finance Minister** on the side — a personal-finance product for Indian users (bank-statement parsing → AA framework)
 - 🚀 Long-standing interest in space tech, ISRO, and bootstrapped SaaS
@@ -48,10 +44,3 @@ Also comfortable with: Angular, Tailwind, MySQL, Nginx, Linux, GitHub Actions, T
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritamdavda/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/davdapritam)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:davdapritam0718@gmail.com)
-
-### Stats
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davdapritam&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="160"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davdapritam&layout=compact&hide_border=true&langs_count=8" alt="Top languages" height="160"/>
-</p>
