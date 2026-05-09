@@ -8,11 +8,15 @@
 
 ### About me
 
-- 🛠️ Lead Software Engineer with ~5 years of full-stack production experience
+- 🛠️ Lead Software Engineer with ~4 years of full-stack production experience
 - 🎙️ Currently working on conversational AI video products and POS systems
 - 💸 Building **Finance Minister** on the side — a personal-finance product for Indian users (bank-statement parsing → AA framework)
 - 🚀 Long-standing interest in space tech, ISRO, and bootstrapped SaaS
 - 📫 Reach me at **davdapritam0718@gmail.com**
+
+### In production
+
+- **[Finup Gold](https://finupgold.com)** — digital-gold investing platform: invest in 24K gold from ₹10, live market rates, daily savings growth, and secure delivery
 
 ### Currently building
 
