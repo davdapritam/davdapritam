@@ -1,32 +1,86 @@
-<h1 align="center">Hi 👋, I'm Pritam Davda</h1>
+## About me
 
-<p align="center">
-  Lead Software Engineer · building production AI products from Surat, India
-</p>
+🛠️ Lead Software Engineer building production systems across AI, fintech, real-time communication, and infrastructure
 
----
+🤖 Deeply interested in AI-assisted software development and agentic workflows — using agents for research, design, implementation, and testing while keeping human judgment at the critical decision points
 
-### About me
+🎙️ Currently working on conversational AI video products and production POS systems
 
-- 🛠️ Lead Software Engineer with ~4 years of full-stack production experience
-- 🎙️ Currently working on conversational AI video products and POS systems
-- 💸 Building **Finance Minister** on the side — a personal-finance product for Indian users (bank-statement parsing → AA framework)
-- 🚀 Long-standing interest in space tech, ISRO, and bootstrapped SaaS
-- 📫 Reach me at **davdapritam0718@gmail.com**
+💸 Built Finance Minister — a financial platform for India focused on financial document processing, transaction intelligence, reconciliation, accounting workflows, and CA review
 
-### In production
+🚀 Long-standing interest in space technology, ISRO, fintech infrastructure, and bootstrapped SaaS
 
-- **[Finup Gold](https://finupgold.com)** — digital-gold investing platform: invest in 24K gold from ₹10, live market rates, daily savings growth, and secure delivery
+📫 Reach me at davdapritam0718@gmail.com
 
-### Currently building
 
-- **An AI-powered conversational video interview platform** — Tavus CVI integration, system-prompt + guardrail architecture, and a Web Audio API software-mute layer (GainNode + VAD) that keeps voice-activity detection alive while the mic is "muted"
-- **A POS platform** — Dockerized services, MongoDB replica set with hourly backups, CloudWatch/SNS alerting via Terraform, branch-based CI/CD to Docker Hub
-- **Finance Minister** — freemium fintech for Indian bank-statement parsing and personal financial management
+## Built
 
-### What I like working on
+### Finance Minister
 
-LLM-assisted development workflows (Research → Plan → Implement loop, custom slash commands, MCP servers), real-time audio/video systems, fintech infrastructure for India, and DX tooling that makes a small team punch above its weight.
+A financial platform built around turning financial documents into reliable, structured financial data.
+
+Documents → Extraction → Normalization → Reconciliation → Accounting → CA Review
+
+Built with a focus on:
+- Financial document processing
+- Bank and financial statement parsing
+- Transaction classification
+- Reconciliation
+- Accounting workflows
+- CA review and adjustments
+- AI-assisted financial intelligence
+
+
+## In production
+
+### Finup Gold
+
+Digital-gold investing platform with live gold pricing, recurring savings, investment tracking, and physical delivery.
+
+
+## Currently building
+
+### Conversational AI Video Platform
+
+AI-powered conversational video experiences.
+
+Working across:
+- Tavus CVI integration
+- System-prompt and guardrail architecture
+- Real-time audio/video
+- Web Audio API
+- Voice Activity Detection
+- Software-mute architecture
+
+
+### POS Platform
+
+Production POS infrastructure built around:
+- Dockerized services
+- MongoDB replica sets
+- Automated backups
+- AWS CloudWatch / SNS monitoring
+- Terraform
+- Branch-based CI/CD
+- Docker Hub deployments
+
+
+## What I like working on
+
+🤖 **AI & Agentic Development**  
+LLM-assisted engineering, agent orchestration, context engineering, MCP servers, and research → design → implementation workflows.
+
+🎥 **Real-time AI**  
+Conversational video, real-time audio, VAD, Web Audio API, and human–AI interaction.
+
+💰 **Fintech Infrastructure**  
+Financial data systems, document processing, reconciliation, transaction intelligence, and accounting workflows.
+
+⚙️ **Developer Experience**  
+Tools and workflows that help small engineering teams build and ship significantly more.
+
+🚀 **Systems & Infrastructure**  
+Docker, MongoDB, AWS, CI/CD, observability, automation, and production reliability.
 
 ### Core stack
 
