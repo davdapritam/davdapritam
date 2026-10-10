@@ -1,93 +1,47 @@
-## About me
+## Hi, I'm Pritam
 
-🛠️ Lead Software Engineer building production systems across AI, fintech, real-time communication, and infrastructure
+I build AI products with agents, and I treat the design doc as the real work. The code comes after.
 
-🤖 Deeply interested in AI-assisted software development and agentic workflows — using agents for research, design, implementation, and testing while keeping human judgment at the critical decision points
+Six years of full-stack engineering, now leading a team that ships conversational AI and fintech products end to end.
 
-🎙️ Currently working on conversational AI video products and production POS systems
-
-💸 Built Finance Minister — a financial platform for India focused on financial document processing, transaction intelligence, reconciliation, accounting workflows, and CA review
-
-🚀 Long-standing interest in space technology, ISRO, fintech infrastructure, and bootstrapped SaaS
-
-📫 Reach me at davdapritam0718@gmail.com
+**Think first. Build once.** Every new piece of work starts with a design doc I agree with before any code exists. Then the agent builds from one structured spec, and it stops and reports back if it hits a decision we locked.
 
 
 ## Built
 
 ### Finance Minister
 
-A financial platform built around turning financial documents into reliable, structured financial data.
+A financial platform for India that turns financial documents into reliable, structured financial data.
 
 Documents → Extraction → Normalization → Reconciliation → Accounting → CA Review
 
-Built with a focus on:
-- Financial document processing
 - Bank and financial statement parsing
-- Transaction classification
-- Reconciliation
-- Accounting workflows
-- CA review and adjustments
+- Transaction classification and reconciliation
+- Accounting workflows with CA review and adjustments
 - AI-assisted financial intelligence
 
-
-## In production
-
-### Finup Gold
+### Finup Gold (in production)
 
 Digital-gold investing platform with live gold pricing, recurring savings, investment tracking, and physical delivery.
 
 
-## Currently building
+## What I work on
 
-### Conversational AI Video Platform
+**AI and agentic development**: LLM-assisted engineering, agent orchestration, context engineering, MCP servers, and research → design → implementation workflows.
 
-AI-powered conversational video experiences.
+**Real-time AI**: conversational AI video, real-time audio and video, AI guardrails, and human–AI interaction.
 
-Working across:
-- Tavus CVI integration
-- System-prompt and guardrail architecture
-- Real-time audio/video
-- Web Audio API
-- Voice Activity Detection
-- Software-mute architecture
+**Fintech infrastructure**: financial data systems, document processing, reconciliation, lending and interest-calculation engines.
 
+**Production systems**: POS and online-ordering platforms, Dockerized services, CI/CD, monitoring, and backups.
 
-### POS Platform
+**Developer experience**: tools and workflows that help small engineering teams ship a lot more.
 
-Production POS infrastructure built around:
-- Dockerized services
-- MongoDB replica sets
-- Automated backups
-- AWS CloudWatch / SNS monitoring
-- Terraform
-- Branch-based CI/CD
-- Docker Hub deployments
-
-
-## What I like working on
-
-🤖 **AI & Agentic Development**  
-LLM-assisted engineering, agent orchestration, context engineering, MCP servers, and research → design → implementation workflows.
-
-🎥 **Real-time AI**  
-Conversational video, real-time audio, VAD, Web Audio API, and human–AI interaction.
-
-💰 **Fintech Infrastructure**  
-Financial data systems, document processing, reconciliation, transaction intelligence, and accounting workflows.
-
-⚙️ **Developer Experience**  
-Tools and workflows that help small engineering teams build and ship significantly more.
-
-🚀 **Systems & Infrastructure**  
-Docker, MongoDB, AWS, CI/CD, observability, automation, and production reliability.
 
 ### Core stack
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -96,11 +50,15 @@ Docker, MongoDB, AWS, CI/CD, observability, automation, and production reliabili
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-Also comfortable with: Tailwind, MySQL, Nginx, Linux, GitHub Actions, Terraform.
+Also comfortable with: Angular, Tailwind, MySQL, Nginx, Linux.
 
-### Connect
 
+### Let's talk
+
+Building with AI agents, or building something where reliability matters? I'm always up for comparing notes.
+
+[![Book a chat](https://img.shields.io/badge/-Book_a_20--min_chat-292929?style=flat-square&logo=caldotcom&logoColor=white)](https://cal.com/pritamdavda/coffee-chat-ai-agents-ai-products)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritamdavda)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/davdapritam)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:davdapritam0718@gmail.com)
